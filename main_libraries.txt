@@ -1,0 +1,6 @@
+python
+pandas
+numpy
+sklearn
+tensorflow
+keras
