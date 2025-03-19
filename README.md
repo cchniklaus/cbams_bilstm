@@ -1,7 +1,7 @@
 # A novel CBAMs-BiLSTM model for Chinese stock market forecasting
 
 <p align="center">
-  <img src="./07_paper/graphic abstract/graphic abstract.emf" alt="graphic abstract">
+  <img src="./07_paper/graphic abstract/graphic abstract.png" alt="graphic abstract">
 </p>
 
 ## Abstract: 
